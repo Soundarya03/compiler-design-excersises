@@ -1,0 +1,5 @@
+void main(){
+    abc=56;
+    y=abc+56;
+    ebc=;
+}
